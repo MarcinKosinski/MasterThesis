@@ -1,0 +1,1 @@
+Source LaTeX code of my [Master Thesis](http://mi2.mini.pw.edu.pl:8080/mkosinski/MagisterkaKosinski.pdf)
